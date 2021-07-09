@@ -2,7 +2,7 @@
 
 <img src="/assets/Texter.png" width="600px">
 
-<h1>Texter</h1>
+<h1>Texter 1.17</h1>
 
 Texter is a plugin for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) that supports multiple worlds and allows you to add, edit, move, and delete FloatingText.
 
