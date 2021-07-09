@@ -2,7 +2,7 @@
 
 <img src="/assets/Texter.png" width="600px">
 
-<h1>Texter</h1>
+<h1>Texter 1.17</h1>
 
 Texter - это плагин для [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) с поддержкой мультимиров и возможностью добавлять, изменять, перемещать и удалять летающий текст.
 
