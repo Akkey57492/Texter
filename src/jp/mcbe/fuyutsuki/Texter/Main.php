@@ -73,11 +73,11 @@ class Main extends PluginBase {
 
 	public function onEnable() {
 		$pluginManager = $this->getServer()->getPluginManager();
-		if ($this->isPackaged()) {
+		if ($this->isPhar()) {
 			$pluginManager->registerEvents(new EventListener($this), $this);
 			$this->mineflowLinkage();
 		}else {
-			$pluginManager->disablePlugin($this);
+			$this->getLogger()->WARN("PharではないTexterをロードしようとしています。");
 		}
 	}
 
