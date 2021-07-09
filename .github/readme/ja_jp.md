@@ -2,7 +2,7 @@
 
 <img src="/assets/Texter.png" width="600px">
 
-<h1>Texter</h1>
+<h1>Texter 1.17</h1>
 
 Texterは複数ワールドに対応した、FloatingText(浮き文字)の追加、編集、移動、削除ができる[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)用プラグインです。
 
